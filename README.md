@@ -25,6 +25,4 @@ Install my-project with npm
     
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
-
-Neelesh Kumar Ahirwar
+- Neelesh Kumar Ahirwar
